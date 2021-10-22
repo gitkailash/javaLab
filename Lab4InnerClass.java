@@ -56,6 +56,6 @@ public class Lab4InnerClass extends JFrame {
             }
         }
         public static void main(String[] args) {
-            new kls.assignments.Lab4();
+            new Lab4InnerClass();
         }
     }
