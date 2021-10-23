@@ -6,7 +6,7 @@ public class Lab1InnerClass extends JFrame{
     JTextField t;
     JButton b;
     Lab1InnerClass(){
-        setTitle("Sum of number");
+        setTitle("clicked");
         setBounds(200,200,500,400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
@@ -32,6 +32,6 @@ public class Lab1InnerClass extends JFrame{
         }
     }
     public static void main(String[] args) {
-        new Lab1();
+        new Lab1InnerClass();
     }
 }
