@@ -8,7 +8,7 @@ public class Lab2InnerClass extends JFrame{
         JTextField t;
         JButton b;
         Lab2InnerClass(){
-            setTitle("Sum of number");
+            setTitle("click");
             setBounds(200,200,500,400);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setVisible(true);
