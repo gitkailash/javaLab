@@ -33,6 +33,6 @@ public class Lab2InnerClass extends JFrame{
         }
 
         public static void main(String[] args) {
-            new kls.assignments.Lab2();
+            new Lab2InnerClass();
         }
     }
